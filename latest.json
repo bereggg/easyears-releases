@@ -1,9 +1,9 @@
 {
   "product": "easyears",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.1/EasyEars-1.0.1.zip",
-  "sha256": "4f0e8c64357e07176946547242ecea7fbf91066f27167320e4db68966dcecbd8",
-  "notes": "\u2022 release",
-  "pubDate": "2026-06-13T16:42:09Z"
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.2/EasyEars-1.0.2.zip",
+  "sha256": "fbe6ee28da981f1f70861109afb014a06e2f744b5ecb8aeb4281249dee1281f2",
+  "notes": "\u2022 New Version  \u2022 Cool ears",
+  "pubDate": "2026-06-13T16:58:48Z"
 }
