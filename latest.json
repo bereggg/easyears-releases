@@ -1,9 +1,9 @@
 {
   "product": "easyears",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.3/EasyEars-1.0.3.zip",
-  "sha256": "3c34068a942f0736df65d2fce8d6311270e340ff8e6bb84f2f66f70e315cc024",
-  "notes": "\u2022 Middle Mode",
-  "pubDate": "2026-06-27T02:32:14Z"
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.4/EasyEars-1.0.4.zip",
+  "sha256": "31e1d8ddfda266fa7ba6e030c5fa8b59a50cdf0a60192875401727ae5a96fac6",
+  "notes": "\u2022 Plugin visualizer parity  \u2022 Beat detection system  \u2022 Frequency band system  \u2022 UI cleanup (status, brand)",
+  "pubDate": "2026-07-09T19:48:48Z"
 }
