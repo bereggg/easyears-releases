@@ -1,11 +1,11 @@
 {
   "product": "easyears",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.10/EasyEars-1.0.10.zip",
-  "sha256": "d385b3e696fca2450482c76d4b101c1eeb06fc76ef7822b60d2fc84359d95e80",
-  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.10/EasyEars-1.0.10-Setup.exe",
-  "winSha256": "6a0816c2761ba2f434bd67d2a1fe991d8598240a5975f612bf194daf3a0e6bdc",
-  "notes": "\u2022 New Visual",
-  "pubDate": "2026-09-04T11:52:57Z"
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.0/EasyEars-1.0.0.zip",
+  "sha256": "69e2959a3e2ce6e8bb775e120238c169a24088aad19bfeac9d2c976c7a4d2332",
+  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.0/EasyEars-1.0.0-Setup.exe",
+  "winSha256": "161d963a96a207eb7b83daf95c99ffcf4d98b08256e2f5ea6f0f339c609e0990",
+  "notes": "\u2022 Official 1.0 release  \u2022 Hear your mix like never before  \u2022 Reference anywhere - phone, car, earbuds  \u2022 Match any reference in one click",
+  "pubDate": "2026-09-07T23:19:32Z"
 }
