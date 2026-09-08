@@ -1,12 +1,12 @@
 {
   "product": "easyears",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.0/EasyEars-1.0.0.zip",
-  "sha256": "6c7f2f2279d1ac4f600fc4aaad351c910b585184145242b8aa4f32f8ee096ab8",
-  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.0/EasyEars-1.0.0-Setup.exe",
-  "winSha256": "8f7ae49f03e0e3244bdac4c15e3ae878ca73b76dd045184db709efde52307e4f",
-  "notes": "\u2022 Best AB plugin",
-  "pubDate": "2026-09-08T13:49:49Z",
-  "sig": "MEQCIFLIXzGvRsFpUkYix7bqIcq4DIHWIWi2viJpyTtiwgrFAiAPzAQm9oXiv2Snn/D3kk6CfhP8CBSMHSYBTXduSCxlTw=="
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.1/EasyEars-1.0.1.zip",
+  "sha256": "438b8a95d700d55048348c911acd75061792653d4a5cb27d85e014ace203c396",
+  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.1/EasyEars-1.0.1-Setup.exe",
+  "winSha256": "8d0d4a7475439b09639342457cf38349af5e1ba0130a9c69adae68d4b09f1257",
+  "notes": "\u2022 New Update",
+  "pubDate": "2026-09-08T14:04:29Z",
+  "sig": "MEUCIQD7+ZHRyIaEOkAya+mG/7PbO/o/s6UGg3Q0Wte4Ioq+1wIgQmhymEFRfc7aONCJVHKfHcUpmTNTfXjf/wcH9SG9eXQ="
 }
