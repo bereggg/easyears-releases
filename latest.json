@@ -1,12 +1,12 @@
 {
   "product": "easyears",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.1/EasyEars-1.0.1.zip",
-  "sha256": "208bad9175930c005162f1300d4b96b41e6be5b4d030437ff146bfcb67d57614",
-  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.1/EasyEars-1.0.1-Setup.exe",
-  "winSha256": "61f2444a9216af27cc110ff0db4c58792d99ad2b1caf6b9b0bf653ff7276826e",
-  "notes": "\u2022 Update for Windows",
-  "pubDate": "2026-09-09T11:19:30Z",
-  "sig": "MEQCIG031SjdXZxmMzv7X7h+9K/wyH+H2lRnKUt1FbYHfr2iAiAR9VdjfcYYKGiKYOHHNZu1tTomyRK7STNBVrSyqmTcUg=="
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.2/EasyEars-1.0.2.zip",
+  "sha256": "04c9a71549d41fcdcb6ed1024f1598fb2be5ba82bb40b0bbae0e2d1e26af3f43",
+  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.2/EasyEars-1.0.2-Setup.exe",
+  "winSha256": "f066dd5c889cea2c21e4fbb0a4fc2d137545e08862395c2d851154b1bedb9f2c",
+  "notes": "\u2022 Stream Update",
+  "pubDate": "2026-09-15T17:41:47Z",
+  "sig": "MEQCICsRjH1LsctlcwefenaiVu1/Y0ZgwMXlyuAzwKpPJNx0AiB9su+uvzg4pgNpix+GBjSEqmkoq0Ko31pvM6FW0pqcDA=="
 }
