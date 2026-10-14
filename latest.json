@@ -1,12 +1,12 @@
 {
   "product": "easyears",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.2/EasyEars-1.0.2.zip",
-  "sha256": "ea041b2eed17638851c44235c4589dade233459339d3c6eedca18b6e22915d02",
-  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.2/EasyEars-1.0.2-Setup.exe",
-  "winSha256": "6934a964fa071564c632de695315a7ffb077c0a1d8252fff8b603e513fd292bc",
-  "notes": "\u2022 Stream!",
-  "pubDate": "2026-09-16T09:49:12Z",
-  "sig": "MEQCIGyRfm7piOcC8MEaAq8uwbb3pU24W1wIJhEvIKslRf3uAiAVRuUjRULmapq+6bVbGODIgImrgI+0RoifeJpuwE8jVQ=="
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.3/EasyEars-1.0.3.zip",
+  "sha256": "3df7fd1d49b95582376969d76b4fa660a9d45cbb0da63b2b85ceee1c61555ac6",
+  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.3/EasyEars-1.0.3-Setup.exe",
+  "winSha256": "72fcb972843c8f05fa2106084d4c264abc45e9fbbf86e84e9913e334692212fb",
+  "notes": "\u2022 Stream tab (live audio)  \u2022 Loop by dragging  \u2022 No volume blast on start  \u2022 Side solo keeps width",
+  "pubDate": "2026-10-14T13:27:55Z",
+  "sig": "MEUCIQDZ+WOSYoFFeSNpUzQ0nLcYKTt+3b1n04nGStD+M4GhJAIga6iCIhL00BJmwFR7SvClEfw3keTXLd6w4RGCRaItXCQ="
 }
