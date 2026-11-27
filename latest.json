@@ -1,12 +1,12 @@
 {
   "product": "easyears",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minOS": "11.0",
-  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.4/EasyEars-1.0.4.zip",
-  "sha256": "c5e3d19fd0d8a198e603357332bec8db06a594e53ff112ecfd475650e0662700",
-  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.4/EasyEars-1.0.4-Setup.exe",
-  "winSha256": "3e7ce1bd8148ad6b0047de661023b5014bd3027be6b6ff6e7b2a2b1de3612a71",
-  "notes": "\u2022 Minimum delay",
-  "pubDate": "2026-11-17T12:53:48Z",
-  "sig": "MEUCICMbmZBMmeHezo0AyFdzL//hLsZhNW4Yj8508ShgQeqNAiEA8xjKm/TuTzhRvjWhyeNgu8Tx46tRPBueQXNHggQbaFw="
+  "url": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.5/EasyEars-1.0.5.zip",
+  "sha256": "c9f2b8a8fe22a70fdc9d600844d72dbb0bd1dec8b41658572ce3f5b19983df68",
+  "winUrl": "https://github.com/bereggg/easyears-releases/releases/download/v1.0.5/EasyEars-1.0.5-Setup.exe",
+  "winSha256": "cd7407793b57bf8a2876d3a7cef22ea325e827fd787619735f22a82acfa5a874",
+  "notes": "\u2022 Six EQ points  \u2022 Low & high cuts  \u2022 PatchWork & mono fix",
+  "pubDate": "2026-11-27T21:31:11Z",
+  "sig": "MEYCIQDb+GFHh9LN1UCCgemk4ARnDJKcRLPmin1H86kxrAfFewIhAJUrHnUZEXA0oIjz8Db4QY6AmSGFkGIx9DMVe9TQLZEp"
 }
